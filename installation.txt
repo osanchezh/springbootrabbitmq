@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=5kxLeR_YuIk
+
+https://github.com/dailycodebuffer/Spring-MVC-Tutorials/tree/master/spring-rabbitmq-producer
+https://github.com/dailycodebuffer/Spring-MVC-Tutorials/tree/master/spring-rabbitmq-consumer
